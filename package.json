@@ -10,6 +10,8 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "@pdf-lib/fontkit": "^1.0.0",
+    "pdf-lib": "^1.11.1",
     "pdfkit": "^0.11.0"
   }
 }

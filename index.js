@@ -14,7 +14,7 @@ doc.image('images/nature.jpg', {
     fit: [250, 600],
     align: 'center',
     valign: 'center'
- });
+});
 
 // add the title
 doc.font('Times-Roman')
@@ -24,8 +24,6 @@ doc.font('Times-Roman')
     .text('Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs.', continued)
     .font('Times-Roman')
     .text('Machine Learning for Health, 2018.')
-
-// Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs
 
 // add the actual document
 
